@@ -9,7 +9,8 @@ body{
 
 background-color: rgb(162, 218, 155);
 background-image: url(tło5.jpg);
-
+max-width: 800px;
+margin: auto;
 }
 
 n
